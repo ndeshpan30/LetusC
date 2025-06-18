@@ -1,4 +1,4 @@
-/*Program to find out what day it is on Jan 1st of any given year, given that, according to the gregorian calendar, it was Monday on 01/01/01*/
+/*Question: According to the gregorian calendar, it was monday on the date 01/01/0. If any year is input through the keyboard, write a program to find out what was on the 1st of January that year.*/
 
 #include<stdio.h>
 int main()
