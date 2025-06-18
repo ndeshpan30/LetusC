@@ -1,3 +1,5 @@
+/*Question: If the ages of ram, shyam and ajay are entered through the keyboardwrite a program to determine the youngest of the three.*/
+
 #include<stdio.h>
 int main()
 {
