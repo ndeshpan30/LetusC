@@ -4,7 +4,7 @@
 #include<math.h>
 int main()
 {
-  float d,x,y,x1,y1,radius;
+   float d,x,y,x1,y1,radius;
 
   printf("Enter the coordinates of the center of the circle");
   scanf("%f,%f",&x,&y);
