@@ -1,3 +1,5 @@
+/*When interest compounds q times a year at an annual rate of r% for t years, the principle p compounds to an amount a as per the following formula a=p(1+r/q)^nq. Write a program to read 10 sets of p,r,t and q, and calulate the corresponding amount each time. */
+
 #include<stdio.h>
 #include<math.h>
 int main()
