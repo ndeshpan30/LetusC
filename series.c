@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  int x=1,i;
-  float n=1;
+  float x=1,i,n=1;
 
   for(i=1;i<=7;i++)
     {
