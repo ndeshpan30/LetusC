@@ -12,13 +12,13 @@ int main()
   scanf("%d",&b);
 
   p=power(a,b);
-  printf("a^b = %d",p);
+  printf("%d^%d = %d",a,b,p);
   return 0;
 }
 
 int power(int x,int y)
 {
   int z;
-z=pow(x,y);
- return z;
+  z=pow(x,y);
+  return z;
 }
