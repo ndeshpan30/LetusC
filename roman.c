@@ -1,7 +1,7 @@
-/*program to convert any given year ino its roman equivalent.*/
+/*program to convert any given year into its roman equivalent.*/
 #include<stdio.h>
-void roman(int p,char q,int r);
-int mod(int x,int z);
+void roman(int,char,int);
+int mod(int,int);
 int main()
 {
   int y,i1,m2,d2,c2,l2,x2,v2,i2;
