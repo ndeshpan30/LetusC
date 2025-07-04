@@ -1,4 +1,4 @@
-/*program to print all ascii values and their equivalents*/
+/*program to print all ascii characters*/
 #include<stdio.h>
 int main()
 {
@@ -7,7 +7,7 @@ int main()
   while(i<=255)
     {   c=i;
   i=i+1;
-  printf("%c",c);
+  printf("%c",c\n);
     }
   return 0;
 }
