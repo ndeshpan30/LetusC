@@ -1,3 +1,4 @@
+/*program to calculate bmi and classify it.*/
 #include<stdio.h>
 #include<math.h>
 
@@ -11,11 +12,6 @@ int main()
   height=pow(h,2);
 
     bmi=w/height;
-
- (bmi<15?printf("Starvation.\n")):((bmi>=15 && bmi <17.5? printf("Anorexic.\n"):(bmi>=17.6 && bmi <18.5?printf("Underweight.\n"):(bmi>= \
-18.6 && bmi <25? printf("Ideal.\n"):(bmi>=25 && bmi <26? printf("Overweight.\n"):(bmi>=26 && bmi <30? printf("Obese.\n"):(bmi>=30? pri\
-ntf("Morbidly obese.\n"):(printf("NA");)))))))
-
 
     printf("BMI=%f\n",bmi);
     if(bmi<15)
