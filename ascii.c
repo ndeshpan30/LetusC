@@ -1,3 +1,4 @@
+/*program to print all ascii values and their equivalents*/
 #include<stdio.h>
 int main()
 {
