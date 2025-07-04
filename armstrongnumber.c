@@ -1,3 +1,5 @@
+/*program to print all armstron numbers between 1 and 500*/
+
 #include<stdio.h>
 int main()
 
