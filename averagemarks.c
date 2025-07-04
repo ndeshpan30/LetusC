@@ -1,3 +1,4 @@
+/*program to find average marks*/
 #include<stdio.h>
 int main()
 {
