@@ -1,3 +1,4 @@
+/*program to check if a triangle is valid or not*/
 #include<stdio.h>
 int main()
 {
