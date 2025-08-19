@@ -2,11 +2,13 @@
 int main()
 {
   int i=0,j=0,n;
-  int s[4][4];
+  
 
   printf("Enter the number of rows and columns in the square matrix: ");
   scanf("%d",&n);
-  for(i=0;i<=n-1;i++)
+  int s[n][n];
+	
+	for(i=0;i<=n-1;i++)
     {
       for(j=0;j<=n-1;j++)
 	{
